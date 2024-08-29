@@ -1,0 +1,1 @@
+let site_api = 'http://localhost/mapi/'
